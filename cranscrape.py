@@ -16,7 +16,7 @@ urls = [
     'https://cran.r-project.org/web/packages/tis/index.html',
     'https://cran.r-project.org/web/packages/tfplot/index.html',
     'https://cran.r-project.org/web/packages/tframe/index.html',
-    'https://cran.r-project.org/web/packages/IBrokers/index.html',
+    'https://cran.r-project.org/web/packages/IBrokers/index.html', 
     'https://cran.r-project.org/web/packages/Rblpapi/index.html',
     'https://cran.r-project.org/web/packages/Rbitcoin/index.html',
     'https://cran.r-project.org/web/packages/GetTDData/index.html',
