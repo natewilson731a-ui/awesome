@@ -10,7 +10,7 @@ url = 'https://cran.r-project.org/web/packages/xts/index.html'
 
 urls = [
     'https://cran.r-project.org/web/packages/xts/index.html',
-    'https://cran.r-project.org/web/packages/data.table/index.html',
+    'https://cran.r-project.org/web/packages/data.table/index.html', 
     'https://cran.r-project.org/web/packages/tseries/index.html',
     'https://cran.r-project.org/web/packages/zoo/index.html',
     'https://cran.r-project.org/web/packages/tis/index.html',
